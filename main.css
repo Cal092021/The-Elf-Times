@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+* {
+    background-color: rgb(243, 233, 138);
+}
+
+/* h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    font-size: smaller;
+} */
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+h4 {
+    font-size: 30px;
+    text-align-last: center;
+}
+h5 {
+    text-align: center;
+    font-size: 30px;
+}
+img {float:left}
+p {text-align: left;}
+
+.header {
+    display: flex;
+    justify-content: center;
+  }
+
+  
+.shoe {
+
+}
+.title {
+    font-family: 'Rock Salt', cursive;
+}
+
+.santa {
+    display: flex;
+    justify-content: center;
+}
+
+.restaurant {
+    display: flex;
+    justify-content: center;
+}
+
+.house {
+    display: flex;
+    justify-content: center;
+}

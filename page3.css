@@ -1,0 +1,33 @@
+* {
+    background-image: url("/images/snow.jfif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+text-align-last: center;}
+p {text-align-last: left;}
+img {float: left;}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+}
+
+.cosy1 {
+    display: flex;
+    justify-content: left;
+}
+
+.tips {
+    display: flex;
+    justify-content: left;
+}
+.cosy2 {
+    display: flex;
+    justify-content: right;
+}

@@ -1,0 +1,43 @@
+
+* {
+    background-image: url("/images/snow.jfif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+h1 {
+ text-align-last: center;
+font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+.treehouse1 {
+    display: flex;
+    justify-content: center;
+}
+
+.treehouse2 {
+    display:flex;
+    justify-content:center
+}
+
+.classic1 {
+    display:flex;
+    justify-content:center
+}
+
+.classic2 {
+    display:flex;
+    justify-content:center
+}
+
+.forest1 {
+    display:flex;
+    justify-content: center
+}
+
+.forest2 {
+    display:flex;
+    justify-content: center;
+}
